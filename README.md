@@ -86,19 +86,19 @@ What's more, I collected track 2 data and one lap of recovery driving from the s
 
 center ,left, and right images:
 
-！[image2](./SIMG/center.jpg)
+![image2](./SIMG/center.jpg)
 
-！[image3](./SIMG/left.jpg)
+![image3](./SIMG/left.jpg)
 
-！[image4](./SIMG/right.jpg)
+![image4](./SIMG/right.jpg)
 
 flipped image:
 
-！[image5](./SIMG/n_right.jpg)
+![image5](./SIMG/n_right.jpg)
 
 cropped image:
 
-！[image6](./SIMG/c_right.jpg)
+![image6](./SIMG/c_right.jpg)
 
 ### Model Architecture and Training Strategy
 
@@ -163,7 +163,7 @@ To augment the data set, I also flipped images and angles thinking that this wou
 
 flipped image:
 
-！[image7](./SIMG/n_right.jpg)
+![image7](./SIMG/n_right.jpg)
 
 I finally randomly shuffled the data set and put 20% of the data into a validation set. 
 
